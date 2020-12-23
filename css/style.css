@@ -387,6 +387,8 @@
 
 .checkbox-link {
   margin-left: 5px;
+  margin-bottom: 2px;
+
   color: var(--accent-color);
   text-decoration-line: underline;
 }
